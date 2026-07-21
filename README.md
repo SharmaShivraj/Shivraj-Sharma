@@ -8,7 +8,7 @@
 - 📚 Currently mastering: **Physics, Chemistry, & Mathematics**
 - 💻 Tech Stack: **Python, C++, HTML/CSS, Git**
 - 🧠 Focus Areas: **Data Structures, Problem Solving, & Applied Math in Tech**
-- ⚡ Fun Fact: I spend half my time debugging code and the other half trying to remember differentiation formulas.
+
 
 ---
 
