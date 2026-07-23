@@ -1,4 +1,4 @@
-# Shivraj-Sharma# Hi there, I'm [Your Name] 👋
+ Hi there, I'm Shivraj Sharma👋
 
 🎓 **Class 11 Science (PCM)** student with a deep passion for programming and technology.
 
